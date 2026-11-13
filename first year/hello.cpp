@@ -50,6 +50,7 @@ int main()
     // cout << name << endl;
 
     // string name;
+    // cin >> name;
     // getline(cin, name);
     // cout << name << endl;
 
